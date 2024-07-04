@@ -1,2 +1,2 @@
-console
+console.log("working")
 alert("Hello")
