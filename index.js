@@ -1,2 +1,2 @@
 console
-alert()
+alert("Hello")
